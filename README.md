@@ -66,4 +66,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Created by Muhammad Saim Sajid. Reach out on [LinkedIn](https://www.linkedin.com/) or GitHub.
+Created by Muhammad Saim. Reach out on [LinkedIn](https://www.linkedin.com/) or GitHub.
